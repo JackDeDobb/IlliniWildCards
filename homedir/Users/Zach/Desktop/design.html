@@ -1,0 +1,57 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<title>Illini Wildcards</title>
+	<link href="css/design.css" media="screen" rel="stylesheet" title="no title"/>
+</head>
+<body>
+<div>
+<div align="center"><a href="index.html" id="home">Illini Wildcards</a></div>
+<div id="cnvs"><canvas height="520" id="bcg-cnvs" width="1240"></canvas> <canvas height="520" id="draw-cnvs" width="1240"></canvas></div>
+
+<ul id="palette" class="palette">
+	<li class="active" style="background:rgb(255,165,0)"></li>
+	<li style="background:rgb(255,255,0)"></li>
+	<li style="background:rgb(0,0,0)"></li>
+	<li style="background:rgb(165,42,42)"></li>
+	<li style="background:rgb(0,0,255)"></li>
+	<li style="background:rgb(255,0,0)"></li>
+	<li style="background:rgb(0,128,0)"></li>
+	<li style="background:rgb(255,255,255)"></li>
+</ul>
+
+
+<ul  id="count" class="count">
+	<li id="rgba(0,0,0,0)" style="display:none"></li>
+	<li id="rgba(255,165,0,255)">0</li>
+	<li id="rgba(255,255,0,255)">0</li>
+	<li id="rgba(0,0,0,255)">0</li>
+	<li id="rgba(165,42,42,255)">0</li>
+	<li id="rgba(0,0,255,255)">0</li>
+	<li id="rgba(255,0,0,255)">0</li>
+	<li id="rgba(0,128,0,255)">0</li>
+	<li id="rgba(255,255,255,255)">0</li>
+</ul>
+
+<ul  id="amount" class="count">
+	<li id="rgba(0,0,0,0)" style="display:none"></li>
+	<li id="Orange">1860</li>
+	<li id="Yellow">900</li>
+	<li id="Black">1020</li>
+	<li id="Brown">660</li>
+	<li id="Blue">1860</li>
+	<li id="Red">780</li>
+	<li id="Green">1050</li>
+	<li id="White">1830</li>
+</ul>
+<div id="buttons">
+<a href="#" id="save">Submit</a>
+<a href="#" id="fill">Fill</a>
+<a href="#" id="clear">Clear</a>
+<a href="#" id="undo">Undo</a>
+<script src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
+<script src="javascript/bcg.js" charset="utf-8"></script>
+<script src="javascript/draw.js" charset="utf-8"></script>
+</div>
+</body>
+</html>

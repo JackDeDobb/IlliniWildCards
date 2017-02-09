@@ -1,0 +1,51 @@
+--- 
+documentroot: /home/illiniwi/public_html
+enable_sni_for_mail: 1
+group: illiniwi
+hascgi: 1
+homedir: /home/illiniwi
+ifmodulealiasmodule: 
+  scriptalias: 
+    - 
+      path: /home/illiniwi/public_html/cgi-bin/
+      url: /cgi-bin/
+ifmoduleincludemodule: 
+  directoryhomeilliniwipublichtml: 
+    ssilegacyexprparser: 
+      - 
+        value: " On"
+ifmodulesslmodule: 
+  directoryhomeilliniwipublichtmlcgibin: 
+    ssloptions: +StdEnvVars
+  setenvif: 
+    - 
+      attribute: User-Agent
+      env_variables: nokeepalive ssl-unclean-shutdown
+      regex: "\".*MSIE.*\""
+  sslcacertificatefile: /var/cpanel/ssl/installed/cabundles/Let_s_Encrypt_d5a69d0f2effae8513e08eaced2ccf28_1615999246.cabundle
+  sslcertificatefile: /var/cpanel/ssl/installed/certs/mail_illiniwildcards_tk_bba3c_c79c5_1491653640_fbe84bbbcde045b3c4c09edec7dabdf5.crt
+  sslcertificatekeyfile: /var/cpanel/ssl/installed/keys/bba3c_c79c5_629644a62cf2ba7ea6d89aefd3f93a3c.key
+  sslengine: 'on'
+ifmoduleuserdirmodule: 
+  ifmodulempmitkc: 
+    ifmoduleruidmodule: {}
+
+include: 
+  - 
+    include: "\"/usr/local/apache/conf/userdata/*.conf\""
+ip: 198.252.99.67
+ipv6: ~
+owner: root
+phpopenbasedirprotect: 1
+port: 443
+secruleengineoff: ~
+serveradmin: webmaster@illiniwildcards.tk
+serveralias: mail.illiniwildcards.tk www.illiniwildcards.tk
+servername: illiniwildcards.tk
+ssl: 1
+sslcacertificatefile: /var/cpanel/ssl/installed/cabundles/Let_s_Encrypt_d5a69d0f2effae8513e08eaced2ccf28_1615999246.cabundle
+sslcertificatefile: /var/cpanel/ssl/installed/certs/mail_illiniwildcards_tk_bba3c_c79c5_1491653640_fbe84bbbcde045b3c4c09edec7dabdf5.crt
+sslcertificatekeyfile: /var/cpanel/ssl/installed/keys/bba3c_c79c5_629644a62cf2ba7ea6d89aefd3f93a3c.key
+usecanonicalname: 'Off'
+user: illiniwi
+userdirprotect: -1

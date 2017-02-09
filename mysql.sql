@@ -1,0 +1,22 @@
+-- cPanel mysql backup
+GRANT USAGE ON *.* TO 'illiniwi'@'72.29.127.28' IDENTIFIED BY PASSWORD '*6724B4AEF91ECE6F79967E893B03861E50459B4A';
+GRANT ALL PRIVILEGES ON `illiniwi\_votepage`.* TO 'illiniwi'@'72.29.127.28';
+GRANT ALL PRIVILEGES ON `illiniwi\_submissions`.* TO 'illiniwi'@'72.29.127.28';
+GRANT USAGE ON *.* TO 'illiniwi'@'dal107.hawkhost.com' IDENTIFIED BY PASSWORD '*6724B4AEF91ECE6F79967E893B03861E50459B4A';
+GRANT ALL PRIVILEGES ON `illiniwi\_votepage`.* TO 'illiniwi'@'dal107.hawkhost.com';
+GRANT ALL PRIVILEGES ON `illiniwi\_submissions`.* TO 'illiniwi'@'dal107.hawkhost.com';
+GRANT USAGE ON *.* TO 'illiniwi'@'localhost' IDENTIFIED BY PASSWORD '*6724B4AEF91ECE6F79967E893B03861E50459B4A';
+GRANT ALL PRIVILEGES ON `illiniwi\_votepage`.* TO 'illiniwi'@'localhost';
+GRANT ALL PRIVILEGES ON `illiniwi\_submissions`.* TO 'illiniwi'@'localhost';
+GRANT USAGE ON *.* TO 'illiniwi_Squad17'@'72.29.127.28' IDENTIFIED BY PASSWORD '*A02AD8AFD772532C8C3D9997E1AA6CAEEB5BE23C';
+GRANT ALL PRIVILEGES ON `illiniwi\_submissions`.* TO 'illiniwi_Squad17'@'72.29.127.28';
+GRANT USAGE ON *.* TO 'illiniwi_Squad17'@'dal107.hawkhost.com' IDENTIFIED BY PASSWORD '*A02AD8AFD772532C8C3D9997E1AA6CAEEB5BE23C';
+GRANT ALL PRIVILEGES ON `illiniwi\_submissions`.* TO 'illiniwi_Squad17'@'dal107.hawkhost.com';
+GRANT USAGE ON *.* TO 'illiniwi_Squad17'@'localhost' IDENTIFIED BY PASSWORD '*A02AD8AFD772532C8C3D9997E1AA6CAEEB5BE23C';
+GRANT ALL PRIVILEGES ON `illiniwi\_submissions`.* TO 'illiniwi_Squad17'@'localhost';
+GRANT USAGE ON *.* TO 'illiniwi_votepage'@'72.29.127.28' IDENTIFIED BY PASSWORD '*8AD9CFFB5A0E7110F9B25A64290239963C988F7B';
+GRANT ALL PRIVILEGES ON `illiniwi\_votepage`.* TO 'illiniwi_votepage'@'72.29.127.28';
+GRANT USAGE ON *.* TO 'illiniwi_votepage'@'dal107.hawkhost.com' IDENTIFIED BY PASSWORD '*8AD9CFFB5A0E7110F9B25A64290239963C988F7B';
+GRANT ALL PRIVILEGES ON `illiniwi\_votepage`.* TO 'illiniwi_votepage'@'dal107.hawkhost.com';
+GRANT USAGE ON *.* TO 'illiniwi_votepage'@'localhost' IDENTIFIED BY PASSWORD '*8AD9CFFB5A0E7110F9B25A64290239963C988F7B';
+GRANT ALL PRIVILEGES ON `illiniwi\_votepage`.* TO 'illiniwi_votepage'@'localhost';

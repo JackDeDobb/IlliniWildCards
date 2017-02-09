@@ -1,0 +1,391 @@
+AWSTATS DATA FILE 7.4 (build 20140726)
+# If you remove this file, all statistics for date 201611 will be lost/reset.
+# Last config file used to build this data file was /home/illiniwi/tmp/awstats/awstats.illiniwildcards.tk.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2015                
+POS_TIME 2700                
+POS_VISITOR 7833                
+POS_DAY 9943                
+POS_DOMAIN 3451                
+POS_LOGIN 3738                
+POS_ROBOT 3893                
+POS_WORMS 4105                
+POS_EMAILSENDER 4236                
+POS_EMAILRECEIVER 4379                
+POS_SESSION 10679               
+POS_SIDER 10887               
+POS_FILETYPES 4514                
+POS_DOWNLOADS 4768                
+POS_OS 4816                
+POS_BROWSER 4973                
+POS_SCREENSIZE 5391                
+POS_UNKNOWNREFERER 5465                
+POS_UNKNOWNREFERERBROWSER 5915                
+POS_ORIGIN 6092                
+POS_SEREFERRALS 6231                
+POS_PAGEREFS 6395                
+POS_SEARCHWORDS 6543                
+POS_KEYWORDS 6704                
+POS_MISC 2364                
+POS_ERRORS 6772                
+POS_CLUSTER 3594                
+POS_SIDER_404 6895                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20161201000317 2940 712954 8830340485682
+FirstTime 20161101112326
+LastTime 20161130234706
+LastUpdate 20161201102105 2940 0 2939 0 0
+TotalVisits 189                 
+TotalUnique 51                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 51                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+PDFSupport 0 0 0
+DirectorSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+RealPlayerSupport 0 0 0
+QuickTimeSupport 0 0 0
+JavascriptDisabled 0 0 0
+TotalMisc 0 0 0
+FlashSupport 0 0 0
+AddToFavourites 0 0 0
+JavaEnabled 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 10 10 16938 3 125 61671
+1 3 5 39355 1 27 54155
+2 5 15 48916 0 13 5562
+3 1 4 37598 2 4 5598
+4 0 0 0 0 0 0
+5 5 18 84809 2 5 5236
+6 13 13 1016 2 3 2941
+7 0 0 0 1 3 3948
+8 20 49 239004 1 38 17155
+9 10 15 140678 2 90 74529
+10 4 9 133151 2 40 48327
+11 10 28 1719688 3 66 32696
+12 30 76 1849722 6 108 53257
+13 6 18 1711342 3 69 68535
+14 38 273 7092721 21 123 48204
+15 87 325 11136288 11 177 72306
+16 234 879 4314304 12 119 695604
+17 66 643 15611180 8 87 62865
+18 116 2116 1811860 7 111 53326
+19 13 35 13125 4 83 39638
+20 8 8 13500 2 100 44203
+21 11 18 1591024 0 111 45732
+22 44 122 4404993 4 104 45903
+23 10 22 396623 1 74 32994
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 5
+us 717 4613 51833364
+cn 15 70 498520
+ca 10 10 755
+nl 1 4 37598
+cz 1 4 37598
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 2
+googlebot 64 164938 20161130204128 0
+googlebot\-image 4 103871 20161120172029 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 10
+html 585 590091 0 0
+php 146 88646 0 0
+Unknown 11 888 0 0
+gif 24 2281 0 0
+png 682 3399399 0 0
+css 471 169757 0 0
+jpg 229 34207762 0 0
+js 345 1927027 0 0
+jpeg 2206 12021856 0 0
+tmp 2 128 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 7
+Unknown 31 24
+winnt 265 58
+win7 43 13
+linux 3 3
+ios_iphone 62 7
+macosx 4238 623
+winxp 59 16
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 19
+safari8.0 49 6
+safari9.0.3 18 2
+firefox49.0 358 109
+safari10.0.1 333 90
+mozilla 152 132
+safari10.0.2 1473 183
+chrome51.0.2704.63 3 1
+chrome49.0.2623.75 3 3
+safari10.0 13 1
+Unknown 12 12
+chrome54.0.2840.71 71 20
+chrome45.0.2454.101 5 1
+jigsaw 14 7
+msie9.0 16 8
+w3c_validator 2 2
+chrome54.0.2840.99 44 14
+chrome51.0.2704.79 91 14
+firefox50.0 1990 124
+safari5.0.4 54 15
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 5
+Cpanel-HTTP-Client/1.0 20161108061221
+Mozilla/5.0_(compatible;_Let's_Encrypt_validation_server;__https://www.letsencrypt.org) 20161108061221
+AddThis.com_(http://support.addthis.com/) 20161128173857
+W3C_Validator/1.3_http://validator.w3.org/services 20161114161509
+Jigsaw/2.3.0_W3C_CSS_Validator_JFouffa/2.0_(See_<http://validator.w3.org/services>) 20161114163033
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+Cpanel-HTTP-Client/1.0 20161108061221
+AddThis.com_(http://support.addthis.com/) 20161128173857
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 516 524
+From1 0 0
+From2 7 7
+From3 0 0
+From4 221 4170
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+google 3 3
+bing 4 4
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 1
+amazon 4
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 1
+amazon 4
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 4
+500 10 0
+404 1066 658788
+206 2 646788
+301 14 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 15
+/css/vote.css 2 http://illiniwildcards.tk/vote.html
+/%22' 1 http://illiniwildcards.tk/vote.html
+/'%20.%20$path%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20.%20' 3 http://illiniwildcards.tk/vote.html
+/CPanel 1 -
+/path/to/bar/image 2 http://illiniwildcards.tk/vote.html
+/mobile/ 3 -
+/'.$image%20.' 7 http://illiniwildcards.tk/vote.html
+/path/to/foo/image 2 http://illiniwildcards.tk/vote.html
+/thispage.html 4 http://illiniwildcards.tk/vote.html
+/'.$image.' 1 http://illiniwildcards.tk/vote.html
+/apple-touch-icon.png 502 -
+/robots.txt 33 -
+/vote.pho 2 -
+/m/ 1 -
+/apple-touch-icon-precomposed.png 502 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 51
+130.126.255.149 223 1532 11688060 20161130234706
+130.126.255.97 124 1990 10398427 20161130183715
+130.126.255.192 60 211 3435728 20161117171823
+208.92.199.6 52 90 3549401 20161128091636
+130.126.255.28 51 163 5743691 20161128141648
+130.126.255.191 45 188 6336345 20161128160320
+130.126.255.210 41 106 217424 20161107164919
+98.212.145.203 38 75 75564 20161121085610
+67.184.24.241 12 12 20460 20161127014111
+64.134.228.12 10 48 2637624 20161126005010
+198.252.99.67 10 10 755 20161108061221
+130.126.255.41 8 42 3418304 20161114165932
+64.74.215.46 5 18 84809 20161126082210
+64.74.215.126 5 18 84809 20161127030007
+64.74.215.86 5 18 84809 20161124050612
+128.30.52.95 5 10 43786 20161114163033
+98.215.35.2 5 5 8525 20161126235319
+73.110.45.28 5 5 1705 20161118191326
+130.126.255.204 3 19 1708264 20161116121946
+66.133.109.36 3 3 261 20161108061221
+130.126.28.93 2 15 1705135 20161101140707
+66.102.6.24 2 2 1470 20161103184213
+128.30.52.66 2 4 17366 20161114161803
+64.107.3.126 1 1 1705 20161126140347
+101.226.125.105 1 3 35945 20161107161006
+101.226.33.206 1 3 3243 20161107161012
+91.139.2.188 1 4 37598 20161128090719
+101.226.68.213 1 1 1768 20161114155606
+128.30.52.96 1 1 1683 20161114161433
+66.102.6.26 1 1 735 20161101125140
+24.100.38.178 1 1 748 20161119150708
+70.42.131.170 1 12 399686 20161130174837
+130.126.255.92 1 13 90076 20161128161041
+128.30.52.73 1 1 1683 20161114161509
+61.151.226.191 1 3 3385 20161114155646
+140.207.185.111 1 1 1768 20161107161011
+8.21.199.61 1 1 755 20161128173857
+121.12.111.141 1 6 6395 20161114155627
+101.226.64.177 1 3 3243 20161107161010
+101.226.33.227 1 3 35945 20161114155532
+180.163.2.88 1 16 182816 20161107161012
+8.21.198.26 1 1 755 20161128161000
+64.74.215.98 1 3 35973 20161125010157
+101.226.125.103 1 1 1768 20161114155547
+61.151.226.202 1 2 2206 20161107161014
+180.163.1.46 1 3 3385 20161114155558
+61.135.187.48 1 2 2230 20161114155549
+46.145.131.112 1 4 37598 20161129101531
+117.185.27.115 1 6 6111 20161107161017
+101.227.131.247 1 17 208312 20161114155536
+173.48.108.2 1 4 37598 20161127083903
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 29
+20161101 7 21 1708076 4
+20161102 4 21 1709804 2
+20161103 2 14 386637 2
+20161104 12 21 1590122 6
+20161105 9 9 5507 5
+20161106 9 9 15093 9
+20161107 84 279 5228817 17
+20161108 8 8 2217 3
+20161109 6 6 10062 6
+20161110 6 6 10062 6
+20161111 11 11 18447 11
+20161112 14 19 76907 12
+20161113 11 11 18447 10
+20161114 179 717 8970012 23
+20161116 20 66 1833838 2
+20161117 3 16 1707180 1
+20161118 9 9 8525 5
+20161119 2 2 2453 2
+20161120 35 77 1772330 7
+20161121 12 23 21044 2
+20161122 8 46 2634214 2
+20161123 1 1 1705 1
+20161124 5 18 84809 1
+20161125 7 9 46203 7
+20161126 16 29 103564 12
+20161127 18 36 233389 13
+20161128 61 271 7638527 10
+20161129 8 39 668621 3
+20161130 177 2907 15901223 5
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+15mn-30mn 4
+5mn-15mn 5
+1h+ 5
+2mn-5mn 7
+0s-30s 155
+30s-2mn 3
+30mn-1h 10
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 14
+/ 218 359989 159 134
+/vote.php 146 88646 1 4
+/design.html 133 54816 12 25
+/vote.html 115 55460 3 8
+/index2.html 97 112309 10 14
+/aboutUs.html 22 7517 0 0
+/.well-known/acme-challenge/Iw5rlm3x_l1uNClOnU6NL7-2TrrIm7gYRPT2glEDYmw 3 261 0 3
+/.well-known/acme-challenge/S05M3pTeFg-Vjv1lo74VzQb8pIW2df0gYskmVcOpbDw 3 261 1 0
+/.well-known/acme-challenge/4203SwBxj08VOTq7RpUxMpcjT8GLYmhHehwlolUo3Yg 2 174 1 1
+/143346.BIN_AUTOSSL_CHECK_PL__.T16A8oDI.cpaneldcv 1 64 0 0
+/224364.BIN_AUTOSSL_CHECK_PL__.FZWqVgYNKl3tm0hz.tmp 1 64 0 0
+/143346.BIN_AUTOSSL_CHECK_PL__.8rP0EEvz.cpaneldcv 1 64 0 0
+/143346.BIN_AUTOSSL_CHECK_PL__.bEL7vgon.cpaneldcv 1 64 1 0
+/224364.BIN_AUTOSSL_CHECK_PL__.fjcvCOO_jGE6Zc5A.tmp 1 64 1 0
+END_SIDER

@@ -1,0 +1,43 @@
+--- 
+customlog: 
+  - 
+    format: combined
+    target: /usr/local/apache/domlogs/illiniwildcards.tk
+  - 
+    format: "\"%{%s}t %I .\\n%{%s}t %O .\""
+    target: /usr/local/apache/domlogs/illiniwildcards.tk-bytes_log
+documentroot: /home/illiniwi/public_html
+group: illiniwi
+hascgi: 1
+homedir: /home/illiniwi
+ifmodulealiasmodule: 
+  scriptalias: 
+    - 
+      path: /home/illiniwi/public_html/cgi-bin/
+      url: /cgi-bin/
+ifmoduleincludemodule: 
+  directoryhomeilliniwipublichtml: 
+    ssilegacyexprparser: 
+      - 
+        value: " On"
+ifmoduleuserdirmodule: 
+  ifmodulempmitkc: 
+    ifmoduleruidmodule: {}
+
+include: 
+  - 
+    include: "\"/usr/local/apache/conf/userdata/*.conf\""
+ip: 198.252.99.67
+owner: root
+phpopenbasedirprotect: 1
+port: 80
+scriptalias: 
+  - 
+    path: /home/illiniwi/public_html/cgi-bin
+    url: /cgi-bin/
+serveradmin: webmaster@illiniwildcards.tk
+serveralias: mail.illiniwildcards.tk www.illiniwildcards.tk
+servername: illiniwildcards.tk
+usecanonicalname: 'Off'
+user: illiniwi
+userdirprotect: -1

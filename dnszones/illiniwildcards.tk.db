@@ -1,0 +1,30 @@
+; cPanel first:11.58.0.31 (update_time):1476666194 11.58.0.31: Cpanel::ZoneFile::VERSION:1.3 hostname:dal107.hawkhost.com latest:11.58.0.31
+; Zone file for illiniwildcards.tk
+$TTL 14400
+@      86400  IN      SOA     ns13.hawkhost.com. server.hawkhost.com. (
+                2016101703        ; serial, todays date+todays
+                86400           ; refresh, seconds
+                7200            ; retry, seconds
+                2419200         ; expire, seconds
+                86400 )         ; minimum, seconds
+
+illiniwildcards.tk. 86400 IN NS ns13.hawkhost.com.
+illiniwildcards.tk. 86400 IN NS ns14.hawkhost.com.
+
+
+illiniwildcards.tk. IN A 198.252.99.67
+
+illiniwildcards.tk. IN MX 0 illiniwildcards.tk.
+
+mail IN CNAME illiniwildcards.tk.
+www IN CNAME illiniwildcards.tk.
+ftp IN A 198.252.99.67
+
+illiniwildcards.tk. IN TXT "v=spf1 +a +mx +ip4:72.29.127.28 +include:_spf.arandomserver.com ~all" 
+cpanel IN A 198.252.99.67
+webdisk IN A 198.252.99.67
+cpcalendars IN A 198.252.99.67
+cpcontacts IN A 198.252.99.67
+whm IN A 198.252.99.67
+webmail IN A 198.252.99.67
+default._domainkey IN TXT "v=DKIM1; k=rsa; p=MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA3k/Kl40tYP0fT9FGupLA3Pd8O9nVEzGN095AmvFa9NdEFR+0GYuIp2+VVi20OI8xUoH40QApd28rUW9/+Xg3KFav++lutyHPQTqzWJlDie38f5IGSQSEiyjZNe5bS8aQhJwLn+8CVALaTlrQAoDUWNzV8+lOel+NinbMrplwdghQEFd/UGyn9YosjJQjUursq" QTTq16aQK3z6EZ7/RmdUJc9JRk51oCGnwM5UYdO2vFguaeESWbiDVwgx5tMwZX4WjtDVS+JDbM6hq4URrSG6dnHPzc90j4NNybvYSSyFT+ua1M9ovTbCOVwcufrOmpNBym/82JVy+3pLyu71jkgkQIDAQAB\;

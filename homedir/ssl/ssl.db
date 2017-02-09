@@ -1,0 +1,105 @@
+--- 
+files: 
+  certificate: 
+    mail_illiniwildcards_tk_bba3c_c79c5_1491653640_fbe84bbbcde045b3c4c09edec7dabdf5: 
+      created: '1483881209'
+      domains: 
+        - illiniwildcards.tk
+        - mail.illiniwildcards.tk
+        - www.illiniwildcards.tk
+      friendly_name: illiniwildcards.tk, mail.illiniwildcards.tk, and www.illiniwildcards.tk 1
+      id: mail_illiniwildcards_tk_bba3c_c79c5_1491653640_fbe84bbbcde045b3c4c09edec7dabdf5
+      is_self_signed: 0
+      issuer.commonName: Let's Encrypt Authority X3
+      issuer.organizationName: Let's Encrypt
+      modulus: bba3cc54be76332f158f39609afe4305a7a90920142d511e9bd0708cc325cb26ca7c350406f58ab10e46f060e7aa2fb7d202c70a4bfa8b432ba535d6997bf3f2ad4b124ff73d5fd101bdcc81dffb3122c4e65bb9ae5f2451f7f88b1add052545eee0befa5932ddc7c117faad6afa0531e18188cc1862c9ef512c015d368f6ee724f46223614833deeb662f906135b8836a079e85117b2d36054122571d72ba25caf33c7035ef524dde8ce9c08864808b21cc19c73e88d01b981c1a1ef30ae88525bb6f478cc83ce9bba18b6a7b3932fbd52c467ee9a97e7635ba1644c0228f6acc53f804ad8b01742d1494f31e8ab016f5ce7029d4fe973ec6aaa2ff4dec79c5
+      modulus_length: 2048
+      not_after: '1491653640'
+      not_before: '1483877640'
+      signature_algorithm: sha256WithRSAEncryption
+      subject.commonName: mail.illiniwildcards.tk
+      validation_type: dv
+    mail_illiniwildcards_tk_d90a8_a3807_1486379520_93663e12fd9fbd1b08df0a2784ac7f92: 
+      created: '1478607144'
+      domains: 
+        - illiniwildcards.tk
+        - mail.illiniwildcards.tk
+        - www.illiniwildcards.tk
+      friendly_name: illiniwildcards.tk, mail.illiniwildcards.tk, and www.illiniwildcards.tk
+      id: mail_illiniwildcards_tk_d90a8_a3807_1486379520_93663e12fd9fbd1b08df0a2784ac7f92
+      is_self_signed: 0
+      issuer.commonName: Let's Encrypt Authority X3
+      issuer.organizationName: Let's Encrypt
+      modulus: d90a8f3d17b7d19e701a939b12b232e3bfb90e89b8d0c9c9da07990398a581445e7b8559d17095ff84f3ffb2436a39cd70da84fad5c9563f69d287ae4ab5acba08aecd0960372247210dbe89c445aa277f6f2f701450998aaad53c91b53e034c501aa563b4c159601c964bee6fc30bb582702f6257b0fa0df9bea9249cd963ef90745228a96cc0103044288eb9928c068c62155d0c126980f0a233dfbb164c6daecabd8af916929054b310b7a5eb953d81fd352272da388c9ab1a109442a34f5bfdac4088e45d93cb76c40c8927b7ee49d775a80a0f96dfffa32b5676e4860e292a2a3957f635ddffa017a45a640f3dd5ee9610986d283d8975ad9dc8d6a3807
+      modulus_length: 2048
+      not_after: '1486379520'
+      not_before: '1478603520'
+      signature_algorithm: sha256WithRSAEncryption
+      subject.commonName: mail.illiniwildcards.tk
+      validation_type: dv
+    www_illiniwildcards_tk_a416f_a415f_1486116360_b431712a5cf6b06c95c41eb10c46f350: 
+      created: '1478343952'
+      domains: 
+        - illiniwildcards.tk
+        - www.illiniwildcards.tk
+      friendly_name: illiniwildcards.tk and www.illiniwildcards.tk
+      id: www_illiniwildcards_tk_a416f_a415f_1486116360_b431712a5cf6b06c95c41eb10c46f350
+      is_self_signed: 0
+      issuer.commonName: Let's Encrypt Authority X3
+      issuer.organizationName: Let's Encrypt
+      modulus: a416fb2232e4af976b913532059a7f176119da651464e6e470f69782f56b04e83e33791891794b05e71c39067329a7cca566e6817dc2b07b156f6654d52dff878b58be435a8811a9dd9cb745316bb14e14812c2e143c615eedd162241e8b49e321c85df6972c8a719e4705aef8cc393c9122adc29e1fc28b217e23223e3db8dc6a2a2acc9b9f6456a6375fb43e64ff8437ac7aa9ab368d2a0563d0256f8280aafeffd59401729d6278b242110ecd4245a8fc1efdb9510a687218441c411d47b4b755a2e29431d0e874f605cc3d41e1d0394d0a688c58b4e8d64a738696ac7e472f25234130dea052bb35a069ed011f78b50d664187891137abc275981f0a415f
+      modulus_length: 2048
+      not_after: '1486116360'
+      not_before: '1478340360'
+      signature_algorithm: sha256WithRSAEncryption
+      subject.commonName: www.illiniwildcards.tk
+      validation_type: dv
+  key: 
+    a416f_a415f_efd56ca9ec7e9240c5c2b06b3e0e6efc: 
+      created: '1478343952'
+      friendly_name: 2,048 bits, created 11/5/16, 11:05 AM UTC
+      id: a416f_a415f_efd56ca9ec7e9240c5c2b06b3e0e6efc
+      modulus: a416fb2232e4af976b913532059a7f176119da651464e6e470f69782f56b04e83e33791891794b05e71c39067329a7cca566e6817dc2b07b156f6654d52dff878b58be435a8811a9dd9cb745316bb14e14812c2e143c615eedd162241e8b49e321c85df6972c8a719e4705aef8cc393c9122adc29e1fc28b217e23223e3db8dc6a2a2acc9b9f6456a6375fb43e64ff8437ac7aa9ab368d2a0563d0256f8280aafeffd59401729d6278b242110ecd4245a8fc1efdb9510a687218441c411d47b4b755a2e29431d0e874f605cc3d41e1d0394d0a688c58b4e8d64a738696ac7e472f25234130dea052bb35a069ed011f78b50d664187891137abc275981f0a415f
+      modulus_length: 2048
+    bba3c_c79c5_629644a62cf2ba7ea6d89aefd3f93a3c: 
+      created: '1483881209'
+      friendly_name: 2,048 bits, created 1/8/17, 1:13 PM UTC
+      id: bba3c_c79c5_629644a62cf2ba7ea6d89aefd3f93a3c
+      modulus: bba3cc54be76332f158f39609afe4305a7a90920142d511e9bd0708cc325cb26ca7c350406f58ab10e46f060e7aa2fb7d202c70a4bfa8b432ba535d6997bf3f2ad4b124ff73d5fd101bdcc81dffb3122c4e65bb9ae5f2451f7f88b1add052545eee0befa5932ddc7c117faad6afa0531e18188cc1862c9ef512c015d368f6ee724f46223614833deeb662f906135b8836a079e85117b2d36054122571d72ba25caf33c7035ef524dde8ce9c08864808b21cc19c73e88d01b981c1a1ef30ae88525bb6f478cc83ce9bba18b6a7b3932fbd52c467ee9a97e7635ba1644c0228f6acc53f804ad8b01742d1494f31e8ab016f5ce7029d4fe973ec6aaa2ff4dec79c5
+      modulus_length: 2048
+    d90a8_a3807_8c0caacf8bf7a33aaffab8fdae837472: 
+      created: '1478607145'
+      friendly_name: 2,048 bits, created 11/8/16, 12:12 PM UTC
+      id: d90a8_a3807_8c0caacf8bf7a33aaffab8fdae837472
+      modulus: d90a8f3d17b7d19e701a939b12b232e3bfb90e89b8d0c9c9da07990398a581445e7b8559d17095ff84f3ffb2436a39cd70da84fad5c9563f69d287ae4ab5acba08aecd0960372247210dbe89c445aa277f6f2f701450998aaad53c91b53e034c501aa563b4c159601c964bee6fc30bb582702f6257b0fa0df9bea9249cd963ef90745228a96cc0103044288eb9928c068c62155d0c126980f0a233dfbb164c6daecabd8af916929054b310b7a5eb953d81fd352272da388c9ab1a109442a34f5bfdac4088e45d93cb76c40c8927b7ee49d775a80a0f96dfffa32b5676e4860e292a2a3957f635ddffa017a45a640f3dd5ee9610986d283d8975ad9dc8d6a3807
+      modulus_length: 2048
+indexes: 
+  certificate: 
+    modulus: 
+      a416fb2232e4af976b913532059a7f176119da651464e6e470f69782f56b04e83e33791891794b05e71c39067329a7cca566e6817dc2b07b156f6654d52dff878b58be435a8811a9dd9cb745316bb14e14812c2e143c615eedd162241e8b49e321c85df6972c8a719e4705aef8cc393c9122adc29e1fc28b217e23223e3db8dc6a2a2acc9b9f6456a6375fb43e64ff8437ac7aa9ab368d2a0563d0256f8280aafeffd59401729d6278b242110ecd4245a8fc1efdb9510a687218441c411d47b4b755a2e29431d0e874f605cc3d41e1d0394d0a688c58b4e8d64a738696ac7e472f25234130dea052bb35a069ed011f78b50d664187891137abc275981f0a415f: 
+        www_illiniwildcards_tk_a416f_a415f_1486116360_b431712a5cf6b06c95c41eb10c46f350: ~
+      bba3cc54be76332f158f39609afe4305a7a90920142d511e9bd0708cc325cb26ca7c350406f58ab10e46f060e7aa2fb7d202c70a4bfa8b432ba535d6997bf3f2ad4b124ff73d5fd101bdcc81dffb3122c4e65bb9ae5f2451f7f88b1add052545eee0befa5932ddc7c117faad6afa0531e18188cc1862c9ef512c015d368f6ee724f46223614833deeb662f906135b8836a079e85117b2d36054122571d72ba25caf33c7035ef524dde8ce9c08864808b21cc19c73e88d01b981c1a1ef30ae88525bb6f478cc83ce9bba18b6a7b3932fbd52c467ee9a97e7635ba1644c0228f6acc53f804ad8b01742d1494f31e8ab016f5ce7029d4fe973ec6aaa2ff4dec79c5: 
+        mail_illiniwildcards_tk_bba3c_c79c5_1491653640_fbe84bbbcde045b3c4c09edec7dabdf5: ~
+      d90a8f3d17b7d19e701a939b12b232e3bfb90e89b8d0c9c9da07990398a581445e7b8559d17095ff84f3ffb2436a39cd70da84fad5c9563f69d287ae4ab5acba08aecd0960372247210dbe89c445aa277f6f2f701450998aaad53c91b53e034c501aa563b4c159601c964bee6fc30bb582702f6257b0fa0df9bea9249cd963ef90745228a96cc0103044288eb9928c068c62155d0c126980f0a233dfbb164c6daecabd8af916929054b310b7a5eb953d81fd352272da388c9ab1a109442a34f5bfdac4088e45d93cb76c40c8927b7ee49d775a80a0f96dfffa32b5676e4860e292a2a3957f635ddffa017a45a640f3dd5ee9610986d283d8975ad9dc8d6a3807: 
+        mail_illiniwildcards_tk_d90a8_a3807_1486379520_93663e12fd9fbd1b08df0a2784ac7f92: ~
+    subject.commonName: 
+      mail.illiniwildcards.tk: 
+        mail_illiniwildcards_tk_bba3c_c79c5_1491653640_fbe84bbbcde045b3c4c09edec7dabdf5: ~
+        mail_illiniwildcards_tk_d90a8_a3807_1486379520_93663e12fd9fbd1b08df0a2784ac7f92: ~
+      www.illiniwildcards.tk: 
+        www_illiniwildcards_tk_a416f_a415f_1486116360_b431712a5cf6b06c95c41eb10c46f350: ~
+uniques: 
+  certificate: 
+    friendly_name: 
+      illiniwildcards.tk and www.illiniwildcards.tk: www_illiniwildcards_tk_a416f_a415f_1486116360_b431712a5cf6b06c95c41eb10c46f350
+      illiniwildcards.tk, mail.illiniwildcards.tk, and www.illiniwildcards.tk: mail_illiniwildcards_tk_d90a8_a3807_1486379520_93663e12fd9fbd1b08df0a2784ac7f92
+      illiniwildcards.tk, mail.illiniwildcards.tk, and www.illiniwildcards.tk 1: mail_illiniwildcards_tk_bba3c_c79c5_1491653640_fbe84bbbcde045b3c4c09edec7dabdf5
+  key: 
+    friendly_name: 
+      2,048 bits, created 1/8/17, 1:13 PM UTC: bba3c_c79c5_629644a62cf2ba7ea6d89aefd3f93a3c
+      2,048 bits, created 11/5/16, 11:05 AM UTC: a416f_a415f_efd56ca9ec7e9240c5c2b06b3e0e6efc
+      2,048 bits, created 11/8/16, 12:12 PM UTC: d90a8_a3807_8c0caacf8bf7a33aaffab8fdae837472
+    modulus: 
+      a416fb2232e4af976b913532059a7f176119da651464e6e470f69782f56b04e83e33791891794b05e71c39067329a7cca566e6817dc2b07b156f6654d52dff878b58be435a8811a9dd9cb745316bb14e14812c2e143c615eedd162241e8b49e321c85df6972c8a719e4705aef8cc393c9122adc29e1fc28b217e23223e3db8dc6a2a2acc9b9f6456a6375fb43e64ff8437ac7aa9ab368d2a0563d0256f8280aafeffd59401729d6278b242110ecd4245a8fc1efdb9510a687218441c411d47b4b755a2e29431d0e874f605cc3d41e1d0394d0a688c58b4e8d64a738696ac7e472f25234130dea052bb35a069ed011f78b50d664187891137abc275981f0a415f: a416f_a415f_efd56ca9ec7e9240c5c2b06b3e0e6efc
+      bba3cc54be76332f158f39609afe4305a7a90920142d511e9bd0708cc325cb26ca7c350406f58ab10e46f060e7aa2fb7d202c70a4bfa8b432ba535d6997bf3f2ad4b124ff73d5fd101bdcc81dffb3122c4e65bb9ae5f2451f7f88b1add052545eee0befa5932ddc7c117faad6afa0531e18188cc1862c9ef512c015d368f6ee724f46223614833deeb662f906135b8836a079e85117b2d36054122571d72ba25caf33c7035ef524dde8ce9c08864808b21cc19c73e88d01b981c1a1ef30ae88525bb6f478cc83ce9bba18b6a7b3932fbd52c467ee9a97e7635ba1644c0228f6acc53f804ad8b01742d1494f31e8ab016f5ce7029d4fe973ec6aaa2ff4dec79c5: bba3c_c79c5_629644a62cf2ba7ea6d89aefd3f93a3c
+      d90a8f3d17b7d19e701a939b12b232e3bfb90e89b8d0c9c9da07990398a581445e7b8559d17095ff84f3ffb2436a39cd70da84fad5c9563f69d287ae4ab5acba08aecd0960372247210dbe89c445aa277f6f2f701450998aaad53c91b53e034c501aa563b4c159601c964bee6fc30bb582702f6257b0fa0df9bea9249cd963ef90745228a96cc0103044288eb9928c068c62155d0c126980f0a233dfbb164c6daecabd8af916929054b310b7a5eb953d81fd352272da388c9ab1a109442a34f5bfdac4088e45d93cb76c40c8927b7ee49d775a80a0f96dfffa32b5676e4860e292a2a3957f635ddffa017a45a640f3dd5ee9610986d283d8975ad9dc8d6a3807: d90a8_a3807_8c0caacf8bf7a33aaffab8fdae837472

@@ -1,0 +1,173 @@
+# Webalizer V2.23-05 Incremental Data - 01/29/2017 17:33:16
+2017 1 29 17 33 16
+26 8 14 2 2 3 42613 11 11 0
+1 3 4 2 29
+0 0 0 0 0 0
+4 0 2472 3 1 1
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+3 0 1854 1 1 1
+0 0 0 0 0 0
+5 3 15750 4 3 3
+3 3 14514 3 3 3
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+3 0 1854 2 1 1
+2 0 1236 2 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+3 0 1854 2 1 1
+0 0 0 0 0 0
+0 0 0 0 0 0
+3 2 3079 1 1 1
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0
+2 0 1236 0
+2 0 1236 1
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+1 1 4838 1
+1 1 4838 1
+5 2 11530 3
+2 2 9676 2
+5 2 4315 1
+5 0 3090 1
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+3 0 1854 1
+0
+0
+0
+8
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+18
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/css/index2.css
+0 1 16104880 447 0 0
+/
+0 7 7814716426037852777 31042 7 0
+# End Of Table - urls
+# -sites- (monthly)
+138.197.13.160
+0 1 1 4838 1 1484319627
+/
+crawl-66-249-73-13.googlebot.com
+0 1 0 618 0 0
+-
+crawl-66-249-65-135.googlebot.com
+0 3 0 1854 1 1484157745
+-
+mobile-130-126-255-240.near.illinois.edu
+0 3 2 3079 1 1485711196
+/
+45.55.169.46
+0 1 1 4838 1 1484402291
+/
+crawl-66-249-73-16.googlebot.com
+0 1 0 618 0 0
+-
+crawl-66-249-65-234.googlebot.com
+0 3 0 1854 1 1484783966
+-
+crawl-66-249-65-231.googlebot.com
+0 3 0 1854 0 0
+-
+138.197.13.95
+0 1 1 4838 1 1484326111
+/
+45.55.148.189
+0 1 1 4838 1 1484324384
+/
+crawl-66-249-65-237.googlebot.com
+0 2 0 1236 1 1485445603
+-
+crawl-66-249-73-19.googlebot.com
+0 4 0 2472 1 1483325327
+-
+159.203.79.251
+0 1 1 4838 1 1484404696
+/
+138.197.47.165
+0 1 1 4838 1 1484407625
+/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+mobile-130-126-255-240.near.illinois.edu
+0 3 2 3079 1 1485711196
+/
+# End Of Table - sites (daily)
+# -referrers- 
+- (Direct Request)
+0 24
+https://illiniwildcards.tk/
+0 2
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 17
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_2) AppleWebKit/602.3.12 (KHTML, like Gecko) Version/10.0.2 Safari/602.3.12
+0 3
+Netcraft SSL Server Survey - contact info@netcraft.com
+0 6
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames
